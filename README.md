@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.png" alt="Developer Banner" />
+  <img src="banner1.png" alt="Developer Banner" height:"300"/>
 </p>
 <h1 align="center">Hi 👋, I'm Prabodana Miyuranga</h1>
 
