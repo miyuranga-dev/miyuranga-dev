@@ -21,7 +21,7 @@ Full Stack Developer | MERN Stack Developer | React Enthusiast
 - 💡 Passionate about building scalable **Web Applications** and exploring **AI**.  
 - 🌱 Currently mastering: `<Machine Learning />`, `<Next.js />`, and `SpringBoot`.  
 - 💬 Ask me about: **Python**, or full-stack development (MERN).  
-- ✉️ Reach me at: **rockmiuranga@gmail.com**
+- ✉️ Reach me at: **miyuranga.dev@gmail.com**
 
 ---
 
@@ -61,9 +61,9 @@ Full Stack Developer | MERN Stack Developer | React Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-miyuranga--dev-black?style=for-the-badge\&logo=github)](https://github.com/miyuranga-dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabodana%20Miyuranga-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/prabodana-miyuranga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabodana%20Miyuranga-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/miyuranga-dev)
 
-[![Email](https://img.shields.io/badge/Email-rockmiuranga@gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:rockmiuranga@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rockmiuranga@gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:miyuranga.dev@gmail.com)
 
 ---
 
