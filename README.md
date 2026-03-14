@@ -63,7 +63,7 @@ Full Stack Developer | MERN Stack Developer | React Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabodana%20Miyuranga-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/miyuranga-dev)
 
-[![Email](https://img.shields.io/badge/Email-rockmiuranga@gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:miyuranga.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-miyuranga.dev@gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:miyuranga.dev@gmail.com)
 
 ---
 
