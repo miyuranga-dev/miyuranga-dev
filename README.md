@@ -15,13 +15,13 @@ Full Stack Developer | MERN Stack Developer | React Enthusiast
 
 ## 💫 About Me
 
-🎓 Software Engineering Student
-🌍 Based in Sri Lanka
-💻 MERN Stack Developer
-🚀 Passionate about building scalable web applications
-📚 Currently learning **Next.js, Machine Learning, and System Design**
+<img align="right" width="350" src="https://cdn.dribbble.com/users/116207/screenshots/3148950/programming.gif" alt="Coding GIF" />
 
-💬 Ask me about **JavaScript, React, Node.js, and MERN stack**
+- 🎓 **Undergraduate** in Computer Science based in **Kegalle, Sri Lanka** 🇱🇰  
+- 💡 Passionate about building scalable **Web Applications** and exploring **AI**.  
+- 🌱 Currently mastering: `<Machine Learning />`, `<Next.js />`, and `SpringBoot`.  
+- 💬 Ask me about: **Java**, **Python**, or full-stack development (MERN).  
+- ✉️ Reach me at: **rockmiuranga@gmail.com**
 
 ---
 
@@ -51,39 +51,9 @@ Full Stack Developer | MERN Stack Developer | React Enthusiast
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏨 Hotel Booking System
-
-A MERN stack web application where users can search hotels, book rooms, and hotel owners can manage rooms and reservations.
-
-### 🧾 Curtain House POS System
-
-Inventory and order management system designed for curtain businesses to track materials, orders, and payments.
-
-### 🌐 Personal Portfolio Website
-
-A responsive portfolio website showcasing my projects, skills, and development journey.
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=miyuranga-dev\&show_icons=true\&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miyuranga-dev\&layout=compact\&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miyuranga-dev\&theme=tokyo-night)
-
----
-
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=miyuranga-dev\&theme=tokyonight)
 
 ---
 
