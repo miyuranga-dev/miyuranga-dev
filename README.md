@@ -20,7 +20,7 @@ Full Stack Developer | MERN Stack Developer | React Enthusiast
 - 🎓 **Undergraduate** in Computer Science based in **Kegalle, Sri Lanka** 🇱🇰  
 - 💡 Passionate about building scalable **Web Applications** and exploring **AI**.  
 - 🌱 Currently mastering: `<Machine Learning />`, `<Next.js />`, and `SpringBoot`.  
-- 💬 Ask me about: **Java**, **Python**, or full-stack development (MERN).  
+- 💬 Ask me about: **Python**, or full-stack development (MERN).  
 - ✉️ Reach me at: **rockmiuranga@gmail.com**
 
 ---
